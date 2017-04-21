@@ -1,4 +1,4 @@
-//Loading Process
+///Loading Process
 (function(){
 let canvas = document.getElementById('canvas');
 let ctx = canvas.getContext('2d');
